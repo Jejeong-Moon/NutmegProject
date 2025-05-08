@@ -37,7 +37,7 @@
 - Apache Tomcat 8.x
 
 ### 🧑‍💻 개발 환경
-- Eclipse / IntelliJ IDEA
+- Eclipse
 - Git / GitHub
 - JDK 1.8+
 
