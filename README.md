@@ -46,7 +46,8 @@
 
 ## 🚀 시스템 아키텍처
 
-![Architecture](./images/architecture.png)
+![stackimage](https://github.com/user-attachments/assets/612cbad6-f5ea-4c72-bf4b-afa58ccb0fd1)
+
 
 ---
 
