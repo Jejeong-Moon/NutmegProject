@@ -10,6 +10,8 @@
 
 ## 🛠️ 기술 스택
 
+![stackimage](https://github.com/user-attachments/assets/612cbad6-f5ea-4c72-bf4b-afa58ccb0fd1)
+
 ### 📱 어플리케이션
 - Java
 - JSP (Java Server Pages)
@@ -46,7 +48,7 @@
 
 ## 🚀 시스템 아키텍처
 
-![stackimage](https://github.com/user-attachments/assets/612cbad6-f5ea-4c72-bf4b-afa58ccb0fd1)
+
 
 
 ---
