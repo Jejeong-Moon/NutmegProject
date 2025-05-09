@@ -158,6 +158,7 @@
 
 -회원 메뉴표시
 ![회원 메뉴 표시](https://github.com/user-attachments/assets/b0a8b2d0-a279-46f2-ab14-56753a614371)
+![사용자 메뉴 표시](https://github.com/user-attachments/assets/6e88344b-bde7-4a86-b8b1-3b8da04aa0f8)
 
 
 
