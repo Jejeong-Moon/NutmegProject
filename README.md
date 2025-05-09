@@ -107,10 +107,6 @@
 
 ---
 
-## 🧾 메뉴 구조도
-
-![메뉴 구조도](https://github.com/user-attachments/assets/747daf85-f1b5-441e-afa5-b3846e9840f8)
-
 ---
 
 ## 🧾 ERD
