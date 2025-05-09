@@ -115,9 +115,9 @@
 <details>
 <summary>📄 전체 ERD 보기 (클릭해서 펼치기)</summary>
 
-![전체 ERD](./docs/erd-full.png)
+![전체 ERD](https://github.com/user-attachments/assets/a6b99314-4b9b-448f-a7c6-8aea95950a05)
 
-👉 [전체 ERD PDF 다운로드](./docs/erd-full.pdf)
+👉 [전체 ERD PDF 다운로드](https://github.com/user-attachments/assets/a6b99314-4b9b-448f-a7c6-8aea95950a05)
 
 </details>
 
