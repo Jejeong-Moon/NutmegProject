@@ -110,6 +110,7 @@
 ---
 
 ## 🧾 ERD
+![구장운영자가입](https://github.com/user-attachments/assets/6e306aa1-e862-40c6-832e-11d255893c61)
 
 ![찐최종 ERD](https://github.com/user-attachments/assets/a6b99314-4b9b-448f-a7c6-8aea95950a05)
 
