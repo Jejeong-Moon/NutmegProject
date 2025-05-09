@@ -146,7 +146,8 @@
 
 ## 🧾 ERD
 
-![erd](https://github.com/user-attachments/assets/e8aca03a-c73f-48b6-89ac-d32c090f1f98)
+![erd](https://github.com/user-attachments/assets/9bca468a-02cf-4bab-ab69-4e597626c737)
+
 
 
 ---
