@@ -39,8 +39,6 @@
 ![AJAX](https://img.shields.io/badge/AJAX-007FFF?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![Daum API](https://img.shields.io/badge/Daum%20주소%20API-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white)
-![Kakao Maps](https://img.shields.io/badge/Kakao%20Maps-FFCD00?style=for-the-badge&logo=kakaomap&logoColor=white)
 
 ---
 
