@@ -153,7 +153,7 @@
 -회원가입 중복 체크 기능
 ![회원가입 중복체크](https://github.com/user-attachments/assets/17cc19b9-06d4-4c5e-b8d1-1e162485dd6e)
 
-- 주민번호 유효성 검사 및 회원가입 완료
+-주민번호 유효성 검사 및 회원가입 완료
 ![회원가입 완료](https://github.com/user-attachments/assets/367e26dd-df5d-4054-9297-1d4258882a7f)
 
 ---
