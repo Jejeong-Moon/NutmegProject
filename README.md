@@ -156,6 +156,13 @@
 -주민번호 유효성 검사 및 회원가입 완료
 ![회원가입 완료](https://github.com/user-attachments/assets/367e26dd-df5d-4054-9297-1d4258882a7f)
 
+-회원 메뉴표시
+![회원 메뉴 표시](https://github.com/user-attachments/assets/b0a8b2d0-a279-46f2-ab14-56753a614371)
+
+
+
+
+
 ---
 
 ## 🧾 ERD
