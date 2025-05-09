@@ -63,6 +63,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+<!--
 ### 📱 어플리케이션
 - Java
 - JSP (Java Server Pages)
@@ -83,7 +84,7 @@
 
 ### ☁️ 서버
 - Apache Tomcat 8.x
-
+-->
 ### 🧑‍💻 개발 환경
 - Eclipse
 - Git / GitHub
