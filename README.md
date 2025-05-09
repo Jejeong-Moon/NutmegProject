@@ -111,8 +111,7 @@
 
 ## 🧾 ERD
 
-![찐최종 ERD](https://github.com/user-attachments/assets/a6b99314-4b9b-448f-a7c6-8aea95950a05)
-
+![erd](https://github.com/user-attachments/assets/e8aca03a-c73f-48b6-89ac-d32c090f1f98)
 
 
 ---
