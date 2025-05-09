@@ -125,7 +125,19 @@
 
 
 ---
+## 🧾 추가 자료들
 
+<details>
+<summary>📄 유스케이스 다이어그램 보기 (클릭해서 펼치기)</summary>
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/c117d097-6eb5-448a-abc0-3113ef3de253" alt="유스케이스 다이어그램" width="100%"/>
+
+</details>
+
+
+---
 ## 📂 폴더 구조
 
 <!-- 여기에 폴더 구조 내용 추가 예정 -->
