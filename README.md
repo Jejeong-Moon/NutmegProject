@@ -70,9 +70,6 @@
 - HTML5 / CSS3 / JavaScript
 - jQuery / AJAX
 
-### ⚙️ Build Tool
-- Apache Tomcat
-
 ### 🧩 Database
 - Oracle
 - JDBC(Java Database Connectivity)
