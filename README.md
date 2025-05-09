@@ -147,7 +147,8 @@
 ![메인페이지](https://github.com/user-attachments/assets/758d3578-4afb-4fe3-8b4e-05192bc051ec)
 -메인페이지
 
-
+![메인페이지 로그인 필요 화면](https://github.com/user-attachments/assets/c97c432d-2984-45ec-8f5d-77aaf990eb66)
+-로그인 필요 화면
 
 
 ---
