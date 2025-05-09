@@ -76,7 +76,7 @@
 - MyBatis(SQL Mapper Framework)
 
 ### 🧾 주요 라이브러리
-- Spring Framework (MVC / DI / AOP 등)
+- Spring Framework
 - MyBatis (SQL 매핑)
 - jQuery (DOM 조작 / AJAX 통신)
 - Daum 주소 API (우편번호 검색)
