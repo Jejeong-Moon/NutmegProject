@@ -150,7 +150,7 @@
 -로그인 필요 화면
 ![메인페이지 로그인 필요 화면](https://github.com/user-attachments/assets/c97c432d-2984-45ec-8f5d-77aaf990eb66)
 
--회원가입 중복 체크 기능
+-회원가입 중복 체크 기능 <br>
 이메일과 닉네임에 중복을 체크하며 비밀번호(최소8자리) 조건을 충족 해야하고 비밀번호 확인에서 같은 비밀번호가 아닐시 다르다고 표현
 ![회원가입 중복체크](https://github.com/user-attachments/assets/17cc19b9-06d4-4c5e-b8d1-1e162485dd6e)
 
