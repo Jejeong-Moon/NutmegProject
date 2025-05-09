@@ -84,8 +84,7 @@
 - Apache Tomcat 8.x
 -->
 ### 🧑‍💻 개발 환경
-- Eclipse
-- Git / GitHub
+- SpringFramework 5.3.34
 - JDK 1.8+
 
 ### 🔗 외부 API
