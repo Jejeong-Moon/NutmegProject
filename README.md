@@ -132,11 +132,11 @@
 </details>
 
 <details>
-<summary>📄 유스케이스 다이어그램 보기 (클릭해서 펼치기)</summary>
+<summary>📄 요구사항 정의서 보기 (클릭해서 펼치기)</summary>
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/c117d097-6eb5-448a-abc0-3113ef3de253" alt="유스케이스 다이어그램" width="100%"/>
+<img src="https://github.com/user-attachments/assets/eb01684e-faf7-4456-883a-f66b3ae99234" alt="유스케이스 다이어그램" width="100%"/>
 
 </details>
 
