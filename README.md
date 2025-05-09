@@ -113,11 +113,14 @@
 
 
 <details>
-<summary>📄 전체 ERD 보기 (클릭해서 펼치기)
+<summary>📄 전체 ERD 보기 (클릭해서 펼치기)</summary>
 
-![전체 ERD](https://github.com/user-attachments/assets/a6b99314-4b9b-448f-a7c6-8aea95950a05)
+<br>
+
+<img src="https://github.com/user-attachments/assets/a6b99314-4b9b-448f-a7c6-8aea95950a05" alt="전체 ERD" width="100%"/>
+
 </details>
-</summary>
+
 
 
 ---
