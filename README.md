@@ -116,9 +116,6 @@
 <summary>📄 전체 ERD 보기 (클릭해서 펼치기)</summary>
 
 ![전체 ERD](https://github.com/user-attachments/assets/a6b99314-4b9b-448f-a7c6-8aea95950a05)
-
-👉 [전체 ERD PDF 다운로드](https://github.com/user-attachments/assets/a6b99314-4b9b-448f-a7c6-8aea95950a05)
-
 </details>
 
 ![ERD](https://github.com/user-attachments/assets/521b2c56-4207-4976-a84a-d19807eb2faf)
