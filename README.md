@@ -173,6 +173,9 @@
 - 임시 동호회 해체
 ![동호회 해체](https://github.com/user-attachments/assets/12baf565-6aa4-4c20-968a-e92a8356d16a)
 
+
+
+
 - 동호회 가입 신청
 ![동호회 가입신청](https://github.com/user-attachments/assets/39dd34b7-711e-473a-990e-f457e5b13477)
 
@@ -197,6 +200,14 @@
 
 - 운영자 유저 탈퇴 기능
 ![운영자 사용자 삭제](https://github.com/user-attachments/assets/6e66a1be-414d-4db5-a42b-09287a9ec7d9)
+
+
+- 구장운영자 페이지 <br>
+구장,경기장에 대한 수정,삭제 기능 구현
+![오퍼레이터 페이지 소개](https://github.com/user-attachments/assets/2e4e5aef-ad03-4ca9-876a-09538eae01d8)
+
+- 사용자의 신청에 대한 승인,반려 처리
+![운영자 경기장 승인 반려](https://github.com/user-attachments/assets/40a2de7f-312a-4b90-b2d8-51968e5d9311)
 
 
 ---
