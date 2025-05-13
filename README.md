@@ -187,6 +187,11 @@
 - 매치 방장의 참가인원 모집, 모집인원 확인, 결제 승인 (경기 확정)
 ![매치에 대한 매치 방장의 참가 인원모집, 수락, 결재 승인](https://github.com/user-attachments/assets/d2db941a-391d-4462-b532-c1bb397b86a5)
 
+- 매치 확정 이후 가계부
+ ![경기 승인 이후 가계부 현황](https://github.com/user-attachments/assets/37658d6d-1fc1-41ea-9de9-de6bfb8031d8)
+
+- 가계부 회비 모으기 기능 (일반 회원은 글쓰기 기능이 없고 납부 기능만 사용 가능)
+![가계부 회비 모으기](https://github.com/user-attachments/assets/17d11486-98af-4bf6-90ce-606bf73a67d2)
 
 
 - 운영자 메인 페이지
