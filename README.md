@@ -168,7 +168,7 @@
 -동호회 메인 페이지
 ![동호회 메인 페이지](https://github.com/user-attachments/assets/f9befd15-6501-41b4-a65d-12fdd650cfac) 
 ![동호회 페이지 최초 화면](https://github.com/user-attachments/assets/c23396ce-99c8-4824-bbb8-c3e42807dee2)
-
+(임시 동호회는 가계부, 매칭을 사용할 수 없습니다)
 
 
 ---
