@@ -254,7 +254,7 @@
 </details>
 
 <details>
-<summary>📄 요구사항 정의서 보기 (클릭해서 펼치기)</summary>
+<summary>📄 테이블 명세서 보기 (클릭해서 펼치기)</summary>
 
 <br>
 [테이블 명세서.xlsx](https://github.com/user-attachments/files/20189138/default.xlsx)
