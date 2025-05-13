@@ -212,6 +212,9 @@
 구장,경기장에 대한 수정,삭제 기능 구현
 ![오퍼레이터 페이지 소개](https://github.com/user-attachments/assets/2e4e5aef-ad03-4ca9-876a-09538eae01d8)
 
+- 구장 수정 기능 (경기장도 동일하게 구현)
+  ![구장 정보 수정](https://github.com/user-attachments/assets/0f84a53b-89fd-4912-a34c-1307f3d969db)
+
 - 사용자의 신청에 대한 승인,반려 처리
 ![운영자 경기장 승인 반려](https://github.com/user-attachments/assets/40a2de7f-312a-4b90-b2d8-51968e5d9311)
 
