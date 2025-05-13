@@ -174,7 +174,30 @@
 ![동호회 해체](https://github.com/user-attachments/assets/12baf565-6aa4-4c20-968a-e92a8356d16a)
 
 -동호회 가입 신청
-![동호회 가입신청](https://github.com/user-attachments/assets/02751147-31e6-461a-937e-83968200d227)
+![동호회 가입신청](https://github.com/user-attachments/assets/39dd34b7-711e-473a-990e-f457e5b13477)
+
+-알람 읽기,삭제 기능
+![알람 기능 읽기,삭제](https://github.com/user-attachments/assets/baed6cb4-4fb6-460d-a185-98cee637c293)
+
+
+
+
+
+
+
+- 운영자 메인 페이지
+![운영자 메인페이지](https://github.com/user-attachments/assets/a9dcdc96-296f-459c-b2d0-f7589dceed91)
+![운영자페이지소개](https://github.com/user-attachments/assets/e5f6e6a6-c0a0-4b5b-860a-127e4c5ceca2)
+
+-경기장 승인 반려
+![운영자 경기장 승인 반려](https://github.com/user-attachments/assets/0daf60d5-f16f-44d5-9bb3-5b23a81cbbe2)
+
+- 운영자 벤, 해제 기능
+![운영자 사용자 차단 해제](https://github.com/user-attachments/assets/a1f65cda-14fb-42c1-841c-bfd6135b53e5)
+
+- 운영자 유저 탈퇴 기능
+![운영자 사용자 삭제](https://github.com/user-attachments/assets/6e66a1be-414d-4db5-a42b-09287a9ec7d9)
+
 
 ---
 
