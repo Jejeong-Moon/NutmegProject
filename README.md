@@ -173,7 +173,8 @@
 -임시 동호회 해체
 ![동호회 해체](https://github.com/user-attachments/assets/12baf565-6aa4-4c20-968a-e92a8356d16a)
 
-
+-동호회 가입 신청
+![동호회 가입신청](https://github.com/user-attachments/assets/02751147-31e6-461a-937e-83968200d227)
 
 ---
 
