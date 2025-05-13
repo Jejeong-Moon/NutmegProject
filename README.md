@@ -184,6 +184,8 @@
 - 상대편 매치 신청
 ![상대편 매치 신청](https://github.com/user-attachments/assets/02187198-9d50-434c-883d-831e39e7a58d)
 
+- 매치 방장의 참가인원 모집, 모집인원 확인, 결제 승인 (경기 확정)
+![매치에 대한 매치 방장의 참가 인원모집, 수락, 결재 승인](https://github.com/user-attachments/assets/d2db941a-391d-4462-b532-c1bb397b86a5)
 
 
 
