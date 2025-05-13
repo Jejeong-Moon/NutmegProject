@@ -166,7 +166,7 @@
 ![동호회 개설](https://github.com/user-attachments/assets/0991e585-25e2-4f0c-ac68-a62202faaf5b)
 
 -동호회 메인 페이지
-![동호회 메인 페이지](https://github.com/user-attachments/assets/f9befd15-6501-41b4-a65d-12fdd650cfac)
+![동호회 메인 페이지](https://github.com/user-attachments/assets/f9befd15-6501-41b4-a65d-12fdd650cfac) 
 ![동호회 페이지 최초 화면](https://github.com/user-attachments/assets/c23396ce-99c8-4824-bbb8-c3e42807dee2)
 
 
