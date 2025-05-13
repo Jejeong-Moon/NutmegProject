@@ -174,8 +174,6 @@
 ![동호회 해체](https://github.com/user-attachments/assets/12baf565-6aa4-4c20-968a-e92a8356d16a)
 
 
-
-
 - 동호회 가입 신청
 ![동호회 가입신청](https://github.com/user-attachments/assets/39dd34b7-711e-473a-990e-f457e5b13477)
 
@@ -183,7 +181,8 @@
 ![알람 기능 읽기,삭제](https://github.com/user-attachments/assets/baed6cb4-4fb6-460d-a185-98cee637c293)
 
 
-
+- 상대편 매치 신청
+![상대편 매치 신청](https://github.com/user-attachments/assets/02187198-9d50-434c-883d-831e39e7a58d)
 
 
 
