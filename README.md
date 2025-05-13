@@ -144,39 +144,39 @@
 
 ---
 ### 📱 스크린샷
--메인페이지
+- 메인페이지
 ![메인페이지](https://github.com/user-attachments/assets/758d3578-4afb-4fe3-8b4e-05192bc051ec)
 
--로그인 필요 화면
+- 로그인 필요 화면
 ![메인페이지 로그인 필요 화면](https://github.com/user-attachments/assets/c97c432d-2984-45ec-8f5d-77aaf990eb66)
 
--회원가입 중복 체크 기능 <br>
+- 회원가입 중복 체크 기능 <br>
 이메일과 닉네임에 중복을 체크하며 비밀번호(최소8자리) 조건을 충족 해야하고 비밀번호 확인에서 같은 비밀번호가 아닐시 다르다고 표현
 ![회원가입 중복체크](https://github.com/user-attachments/assets/17cc19b9-06d4-4c5e-b8d1-1e162485dd6e)
 
 
--주민번호 유효성 검사 및 회원가입 완료
+- 주민번호 유효성 검사 및 회원가입 완료
 ![회원가입 완료](https://github.com/user-attachments/assets/367e26dd-df5d-4054-9297-1d4258882a7f)
 
--회원 메뉴표시
+- 회원 메뉴표시
 ![회원 메뉴 표시](https://github.com/user-attachments/assets/b0a8b2d0-a279-46f2-ab14-56753a614371)
 ![사용자 메뉴 표시](https://github.com/user-attachments/assets/6e88344b-bde7-4a86-b8b1-3b8da04aa0f8)
 
--동호회 개설
+- 동호회 개설
 ![동호회 개설](https://github.com/user-attachments/assets/0991e585-25e2-4f0c-ac68-a62202faaf5b)
 
--동호회 메인 페이지
+- 동호회 메인 페이지
 ![동호회 메인 페이지](https://github.com/user-attachments/assets/f9befd15-6501-41b4-a65d-12fdd650cfac) 
 ![동호회 페이지 최초 화면](https://github.com/user-attachments/assets/c23396ce-99c8-4824-bbb8-c3e42807dee2)
 (임시 동호회는 가계부, 매칭을 사용할 수 없습니다)
 
--임시 동호회 해체
+- 임시 동호회 해체
 ![동호회 해체](https://github.com/user-attachments/assets/12baf565-6aa4-4c20-968a-e92a8356d16a)
 
--동호회 가입 신청
+- 동호회 가입 신청
 ![동호회 가입신청](https://github.com/user-attachments/assets/39dd34b7-711e-473a-990e-f457e5b13477)
 
--알람 읽기,삭제 기능
+- 알람 읽기,삭제 기능
 ![알람 기능 읽기,삭제](https://github.com/user-attachments/assets/baed6cb4-4fb6-460d-a185-98cee637c293)
 
 
@@ -189,7 +189,7 @@
 ![운영자 메인페이지](https://github.com/user-attachments/assets/a9dcdc96-296f-459c-b2d0-f7589dceed91)
 ![운영자페이지소개](https://github.com/user-attachments/assets/e5f6e6a6-c0a0-4b5b-860a-127e4c5ceca2)
 
--경기장 승인 반려
+- 경기장 승인 반려
 ![운영자 경기장 승인 반려](https://github.com/user-attachments/assets/0daf60d5-f16f-44d5-9bb3-5b23a81cbbe2)
 
 - 운영자 벤, 해제 기능
