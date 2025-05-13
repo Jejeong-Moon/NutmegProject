@@ -209,6 +209,10 @@
 - 사용자의 신청에 대한 승인,반려 처리
 ![운영자 경기장 승인 반려](https://github.com/user-attachments/assets/40a2de7f-312a-4b90-b2d8-51968e5d9311)
 
+- 승인 이후 페이지 변화 체크
+![오퍼레이터 승인 이후 대시보드 변화](https://github.com/user-attachments/assets/fcc362fb-656a-4282-b059-1eb56d9775eb)
+
+
 
 ---
 
