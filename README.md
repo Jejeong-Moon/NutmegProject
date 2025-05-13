@@ -257,7 +257,8 @@
 <summary>📄 테이블 명세서 보기 (클릭해서 펼치기)</summary>
 
 <br>
-[테이블 명세서.xlsx](https://github.com/user-attachments/files/20189138/default.xlsx)
+[주요 테이블 명세서_2team.pdf](https://github.com/user-attachments/files/20189166/_2team.pdf)
+
 
 
 </details>
